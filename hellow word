@@ -1,0 +1,6 @@
+#include<stdio.h>\\使用printf需要的头文件
+int main()
+      { 
+	  printf("Hellow World");\\使用printt 输出hello word
+	  return 0;
+       }
